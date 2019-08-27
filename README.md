@@ -1,2 +1,2 @@
 # Development
-Data intelligence development repository
+Development repository
